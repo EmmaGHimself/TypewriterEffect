@@ -30,8 +30,7 @@
  
  ```
  dependencies {
-      implementation 'in.codeshuffle:typewriterview:1.1.0'
-      implementation 'com.github.EmmaGHimself:TypewriterEffect:Tag'
+      implementation 'com.github.EmmaGHimself:TypewriterEffect:0.1.0'
  }
  ```
  
